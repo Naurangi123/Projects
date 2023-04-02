@@ -1,0 +1,46 @@
+.body{
+    background-color: rgb(238, 5, 238);
+
+}
+
+.red{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    position: relative;
+
+}
+.green{
+    background-color: lightgreen;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+}
+.blue{
+    background-color: rgb(12, 31, 245);
+    height: 100px;
+    width: 100px;
+    position: relative;
+    bottom: 100px;
+
+}
+.yellow{
+    background-color: rgb(245, 249, 8);
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 100px;
+    bottom: 200px;
+    
+}
+.h1{
+    position: relative;
+    top: 400px;
+}
+.microsoft{
+    position: relative;
+    top: 100px;
+    
+}
